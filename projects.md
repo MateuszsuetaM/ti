@@ -28,7 +28,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 11. [Ruciński, Marek](https://github.com/marenty). [Strona z mapą](https://marenty.github.io/), [GeoJason](https://marenty.github.io/src/zad2.html), [Responsywność](https://marenty.github.io/src/zad3.html) 26.03
 12. [Sazon, Krzysztof](https://github.com/ksazon/cernMap). [CERN Map](https://ksazon.github.io/cernMap/), [geoJSON](https://ksazon.github.io/geoJSON/), [Responsive webpage](https://ksazon.github.io/responsiveSite/)
 12. [Wymysłowski, Dawid](https://github.com/garpus/Wymyslowski)
-13. [Zarzycki, Mateusz](https://github.com/MateuszsuetaM/Techniki_internetowe).
+13. [Zarzycki, Mateusz](https://github.com/MateuszsuetaM/Techniki_internetowe). [Mathjax](https://mateuszsuetam.github.io/Mathjax/)
 14. [Kulaszewicz, Rafał](https://github.com/rkulaszewicz/TI). [geoJSON](https://rkulaszewicz.github.io/TI/mapa.html), [Responsywna](https://rkulaszewicz.github.io/TI/tabele.html)
 
 
